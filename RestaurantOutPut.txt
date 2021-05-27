@@ -1,0 +1,24 @@
+Order|#342, 2, 2012-02-02, CASH
+MenuItem|2, 33.5, Cola, #342
+MenuItem|1, 353.0, Burger, #342
+MenuItem|2, 243.77, Pizza, #342
+MenuItem|4, 93.5, Soup, #342
+-
+Order|#412, 4, 2012-02-02, CREDIT_CARD
+MenuItem|1, 33.5, Water, #412
+MenuItem|4, 353.0, Salad Cezar, #412
+MenuItem|3, 243.77, Pizza, #412
+MenuItem|4, 93.5, Pasta, #412
+-
+Order|#214, 1, 2015-04-02, VOUCHER
+MenuItem|2, 33.5, Cola, #214
+MenuItem|4, 53.0, Soda, #214
+MenuItem|3, 343.77, Pasta, #214
+MenuItem|2, 193.5, Gulas, #214
+-
+Order|#753, 2, 2015-04-02, CASH
+MenuItem|4, 33.5, Fanta, #753
+MenuItem|2, 353.0, Chicken Wings, #753
+MenuItem|1, 243.77, Pizza, #753
+MenuItem|5, 93.5, Beef, #753
+-
